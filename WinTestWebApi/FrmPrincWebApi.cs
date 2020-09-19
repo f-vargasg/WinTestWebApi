@@ -17,7 +17,7 @@ namespace WinTestWebApi
             InitializeComponent();
         }
 
-        private void butExit_Click(object sender, EventArgs e)
+        private void ButExit_Click(object sender, EventArgs e)
         {
             this.Dispose();
         }
